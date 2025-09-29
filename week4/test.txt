@@ -1,0 +1,2 @@
+I am writing into a file
+This is a different message
